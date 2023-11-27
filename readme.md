@@ -1,3 +1,5 @@
 ## Exercice Git et GitHub
 
-# ajout de ligne sur branche develop
+# ajout de lignes sur branche develop
+
+''' un commentaire quelconque'''
