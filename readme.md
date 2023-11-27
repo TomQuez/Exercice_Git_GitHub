@@ -2,7 +2,7 @@
 
 ## ajout de lignes sur branche develop
 
-`un commentaire quelconque`
+`syntaxe pour du code en .md`
 
 liste commande :
 
