@@ -10,8 +10,6 @@ liste commande :
 - git log
 - git status
 - git commit -m "titre du commentaire"
-- git commit -m "un commentaire"
-  > > > > > > > main
 - git push origin branche_sur_laquelle_pusher
 - git switch branche_sur_laquelle_switcher
 - git checkout -b nom_de_la_nouvelle_branche
